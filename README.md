@@ -1,4 +1,4 @@
-# IPv4 Server & IPv6 Client Project
+# IPv4 Server & IPv6 Client Application
 
 ## Description
 
